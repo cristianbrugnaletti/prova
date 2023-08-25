@@ -4,7 +4,10 @@ public class ClasseProva {
 
 	public static void main(String[] args) {
 		String antonio;
-		String labo;
+
+		String leoncino;
+		String criccri;
+
 	}
 
 }
